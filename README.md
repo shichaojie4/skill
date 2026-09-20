@@ -1,2 +1,1 @@
-# skill
-skills for daily work improvement
+# skill\n\nReusable skills for daily engineering and research work.\n\n## Available skills\n\n- [`automotive-evidence-research`](automotive-evidence-research/): evidence-led automotive research with multilingual retrieval, engineering image analysis, traceable image citation, and validated technical-diagram redrawing.\n
